@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Muse Morning Podcast</title>
+<link>https://genkilad.github.io/muse-morning-podcast/</link>
+<language>en-GB</language>
+<description>Andy's daily morning bundle in audio, produced by Muse: weather, the Daily Stoic in a systems register, Oura health trend, crypto and AI-infrastructure cards, JV crypto baskets, and trading reminders. Market figures retain their original timestamps and are not live quotes or trade instructions.</description>
+<itunes:author>Muse</itunes:author>
+<itunes:image href="https://genkilad.github.io/muse-morning-podcast/cover.jpg"/>
+<itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<atom:link href="https://genkilad.github.io/muse-morning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+</channel>
+</rss>
