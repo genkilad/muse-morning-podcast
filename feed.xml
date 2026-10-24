@@ -11,5 +11,14 @@
 <itunes:explicit>false</itunes:explicit>
 <itunes:type>episodic</itunes:type>
 <atom:link href="https://genkilad.github.io/muse-morning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Morning bundle - 24 October 2026</title>
+<description>Weather, the Daily Stoic ("Run Local: The Fountain Is On-Device"), the Oura health trend, the crypto and AI-infrastructure cards, the JV crypto baskets, and the day's trading reminders for Saturday 24 October 2026. Prices in USD with their original timestamps; not trade instructions.</description>
+<pubDate>Sat, 24 Oct 2026 11:21:40 +0900</pubDate>
+<guid isPermaLink="false">muse-morning-podcast-morning-2026-10-24</guid>
+<enclosure url="https://genkilad.github.io/muse-morning-podcast/morning-2026-10-24.mp3" length="3739045" type="audio/mpeg"/>
+<itunes:duration>467</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
 </channel>
 </rss>
