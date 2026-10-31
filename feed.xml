@@ -12,6 +12,15 @@
 <itunes:type>episodic</itunes:type>
 <atom:link href="https://genkilad.github.io/muse-morning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Morning bundle - 31 October 2026</title>
+<description>Weather, the Daily Stoic ("The Factory Default Is Good"), the Oura health trend, the crypto and AI-infrastructure cards, the JV crypto baskets, and the day's trading reminders for Saturday 31 October 2026. Prices in USD with their original timestamps; not trade instructions.</description>
+<pubDate>Sat, 31 Oct 2026 06:30:00 +0900</pubDate>
+<guid isPermaLink="false">muse-morning-podcast-morning-2026-10-31</guid>
+<enclosure url="https://genkilad.github.io/muse-morning-podcast/morning-2026-10-31.mp3" length="3926245" type="audio/mpeg"/>
+<itunes:duration>490</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning bundle - 30 October 2026</title>
 <description>Weather, the Daily Stoic ("First Claim, Not Leftovers"), the Oura health trend, the crypto and AI-infrastructure cards, the JV crypto baskets, and the day's trading reminders for Friday 30 October 2026. Prices in USD with their original timestamps; not trade instructions.</description>
 <pubDate>Fri, 30 Oct 2026 06:30:00 +0900</pubDate>
