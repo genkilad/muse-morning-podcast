@@ -12,6 +12,15 @@
 <itunes:type>episodic</itunes:type>
 <atom:link href="https://genkilad.github.io/muse-morning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Morning bundle - 2 November 2026</title>
+<description>Weather, the Daily Stoic ("Bind the Choice to What Will Be"), the Oura health trend, the crypto card, the JV crypto baskets, and the day's trading reminders for Monday 2 November 2026. Prices in USD with their original timestamps; not trade instructions.</description>
+<pubDate>Mon, 2 Nov 2026 06:30:00 +0900</pubDate>
+<guid isPermaLink="false">muse-morning-podcast-morning-2026-11-02</guid>
+<enclosure url="https://genkilad.github.io/muse-morning-podcast/morning-2026-11-02.mp3" length="3279781" type="audio/mpeg"/>
+<itunes:duration>409</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning bundle - 1 November 2026</title>
 <description>Weather, the Daily Stoic ("Accept the Build as Shipped"), the Oura health trend, the crypto card, the JV crypto baskets, and the day's trading reminders for Sunday 1 November 2026. Prices in USD with their original timestamps; not trade instructions.</description>
 <pubDate>Sun, 1 Nov 2026 06:30:00 +0900</pubDate>
