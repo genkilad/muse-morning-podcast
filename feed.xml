@@ -12,6 +12,15 @@
 <itunes:type>episodic</itunes:type>
 <atom:link href="https://genkilad.github.io/muse-morning-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
+<title>Morning bundle - 6 November 2026</title>
+<description>Weather, the Daily Stoic ("You Don't Own the Scheduler"), the Oura health trend, the crypto card, the AI-infrastructure card, the JV crypto baskets, and the day's trading reminders for Friday 6 November 2026. Prices in USD with their original timestamps; not trade instructions.</description>
+<pubDate>Fri, 6 Nov 2026 06:30:00 +0900</pubDate>
+<guid isPermaLink="false">muse-morning-podcast-morning-2026-11-06</guid>
+<enclosure url="https://genkilad.github.io/muse-morning-podcast/morning-2026-11-06.mp3" length="5316709" type="audio/mpeg"/>
+<itunes:duration>664</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+</item>
+<item>
 <title>Morning bundle - 5 November 2026</title>
 <description>Weather, the Daily Stoic ("You Do Not Hold Root on the Universe"), the Oura health trend, the crypto card, the AI-infrastructure card, the JV crypto baskets, and the day's trading reminders for Thursday 5 November 2026. Prices in USD with their original timestamps; not trade instructions.</description>
 <pubDate>Thu, 5 Nov 2026 06:30:00 +0900</pubDate>
